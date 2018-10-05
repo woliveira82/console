@@ -1,6 +1,7 @@
 html{
     background: lightblue;
-    font-family: 'Courier New';
+    font-family: 'VT323', monospace;
+    font-size: 30px;
 }
 .app{
     display: flex;
@@ -27,7 +28,7 @@ html{
     font-family: 'Open Sans Condensed', sans-serif;
     font-weight: 700;
     left: -22px;
-    top: -8px;
+    top: 2px;
     content: ">";
     font-size: 30px;
 }
